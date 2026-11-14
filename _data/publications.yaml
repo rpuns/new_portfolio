@@ -33,3 +33,21 @@ papers:
     code: "https://github.com/SimarKareer/EgoMimic"
     image: "/assets/publications/egomimic.jpg"
     selected: y
+
+  - title: "FLORA: An Open Model Suite for Scaling Robotics Data Engines"
+    year: "2026"
+    authors: 'Sicong Leng*, Yunze Man*, Zhiqi Li*, Jing Wang, Yuhe Zhang, <b><u>Ryan Punamiya</u></b>, Siddharth Patki, Kaiyuan Zheng, Zi-ang Cao, Zhiding Yu, Sifei Liu, Danfei Xu, Ben Levin, Jan Kautz, Yuke Zhu, Johan Bjorck*, Linxi “Jim” Fan'
+    paper_pdf: "https://arxiv.org/pdf/2610.31779"
+    website: "https://research.nvidia.com/labs/gear/flora/"
+    code: "https://github.com/NVlabs/Flora"
+    venue: "arXiv preprint, 2026"
+    image: "/assets/publications/flora.jpg"
+    selected: y
+  - title: "GR00T 2: Scaling Robot Foundation Models for Generalization, Dexterity, and Adaptation"
+    year: "2026"
+    authors: "NVIDIA et al. (including <b><u>Ryan Punamiya</u></b>)"
+    paper_pdf: "https://research.nvidia.com/labs/gear/gr00t-2/assets/gr00t2_whitepaper.pdf"
+    website: "https://research.nvidia.com/labs/gear/gr00t-2/"
+    venue: "NVIDIA Whitepaper, 2026"
+    image: "/assets/publications/gr00t2.jpg"
+    selected: y
